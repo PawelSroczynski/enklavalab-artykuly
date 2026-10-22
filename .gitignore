@@ -1,0 +1,10 @@
+*.part
+__pycache__/
+_results.json
+_retry.json
+_pw.json
+_pw2.json
+_r10.json
+*.zip
+*.zip.*
+fetch.log

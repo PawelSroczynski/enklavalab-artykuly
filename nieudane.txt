@@ -1,0 +1,13 @@
+Do otwarcia recznie w przegladarce. Data: 2026-10-22
+
+G03_Hagos_2014_syngas_IC_engines.pdf | NIEUDANE | HTTP 403 — blokada wydawcy (Sage), PDF niedostepny bez logowania | https://journals.sagepub.com/doi/pdf/10.1155/2014/401587
+G04_Milne_1998_NREL_gasifier_tars.pdf | NIEUDANE | HTTP 000 — domena www.nrel.gov nie rozwiazuje sie w DNS | https://www.nrel.gov/docs/fy99osti/25357.pdf
+G10_AbuElRub_2008_PhD_char_tar_reduction.pdf | NIEUDANE | HTTP 403 — repozytorium UT Twente blokuje pobranie | https://research.utwente.nl/files/6085132/thesis_Abu_El_Rub.pdf
+R05_Phounglamcheik_2020_pyrolysis_vs_char_reactivity.pdf | NIEUDANE | HTTP 403 — repozytorium Oulu blokuje pobranie | https://oulurepo.oulu.fi/bitstream/handle/10024/27191/nbnfi-fe2020061243039.pdf?sequence=1&isAllowed=y
+B02_Namaswa_2023_small_kiln_designs.pdf | NIEUDANE | HTTP 403 — repozytorium Aberdeen blokuje pobranie | https://abdn.elsevierpure.com/files/282178216/Namawasa_etal_BTR_Emerging_Trends_in_VOR.pdf
+R09_AzZahra_2025_biochar_assisted_gasification.pdf | NIEUDANE | HTTP 403 — ScienceDirect, brak darmowego PDF | https://www.sciencedirect.com/science/article/pii/S277244332500025X
+R10_WangY_2023_mixed_CO2_H2O_gasification.pdf | NIEUDANE | repozytorium Nagoya zwraca 502 — brak pliku; pozycja jako P30 | http://hdl.handle.net/2237/0002007327
+R11_Ren_2023_preprint_AAEM_large_particles.pdf | POMINIETE | SSRN wymaga logowania | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4564902
+B11_Bleuler_2021_dry_toilet_pyrolysis.pdf | ZAMKNIETE | wydawca nie udostepnia PDF bez logowania; pozycja jako P31 | https://doi.org/10.1007/s12649-020-01220-0
+B12_Andriessen_2019_to_char_or_not_to_char.pdf | ZAMKNIETE | wydawca nie udostepnia PDF bez logowania; pozycja jako P32 | https://doi.org/10.2166/washdev.2019.184
+B13_Bond_2018_pit_latrine_sludge_pyrolysis.pdf | ZAMKNIETE | wydawca nie udostepnia PDF bez logowania; pozycja jako P33 | https://doi.org/10.1039/C7EW00380C
